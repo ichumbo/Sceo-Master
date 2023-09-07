@@ -6,7 +6,7 @@
 
   SCEO é um site de agência de SEO totalmente responsivo, <br />responsivo para todos os dispositivos, construído usando HTML, CSS e JavaScript.
 
-  <a href="https://codewithsadee.github.io/sceo/"><strong>➥ Demonstração</strong></a>
+  <a href="https://ichumbo.github.io/Sceo-Master/"><strong>➥ Demonstração</strong></a>
 
 </div>
 
